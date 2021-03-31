@@ -3,4 +3,4 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=FIT-FOR-ALL&color=green&label=+Developers+Inspired"/>
+<img src="https://komarev.com/ghpvc/?username=FIT-FOR-ALL&color=green&label=+Project+views"/>
